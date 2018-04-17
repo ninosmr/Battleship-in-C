@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481150885 source:c:\users\ninos\desktop\codeblocc\projects\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+
